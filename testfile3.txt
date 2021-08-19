@@ -1,2 +1,3 @@
 this is first line of 3rd file
 this is second line
+this is 3rd line
